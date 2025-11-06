@@ -33,3 +33,6 @@ This application:
 <img width="865" height="854" alt="Click" src="https://github.com/user-attachments/assets/6059a6eb-3a59-4623-9354-455fcfaa8dfc" />
 
 ### After Calc Dic Is Pressed
+<img width="934" height="768" alt="CalDic" src="https://github.com/user-attachments/assets/bb1bdc6c-63fc-4a18-8e66-c12d406a710d" />
+
+
