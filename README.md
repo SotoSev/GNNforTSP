@@ -24,7 +24,9 @@ This application:
 ---
 
 
-### UI
+## UI
+
+### The Popup Window
 <img width="1916" height="1037" alt="MainWindow" src="https://github.com/user-attachments/assets/75572a2f-e783-46e0-9973-ec85c5b4f3fe" />
 
 ### After The Selection Of The Cities
