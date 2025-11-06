@@ -31,3 +31,5 @@ This application:
 
 ### After The Selection Of The Cities
 <img width="865" height="854" alt="Click" src="https://github.com/user-attachments/assets/6059a6eb-3a59-4623-9354-455fcfaa8dfc" />
+
+### After Calc Dic Is Pressed
